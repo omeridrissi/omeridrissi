@@ -4,6 +4,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/omer-el-idrissi-921a073a1/ 
 - Email: omer.e.idrissi@gmail.com
+- PDF Resume: [Download PDF Resume](./my_resume.pdf)
 
 ---
 
@@ -49,3 +50,4 @@ includes details on:
 - SIMD PPM library achieving 
 - libclang tool to detect cross-function data dependency
 
+- PDF: [Download My Resume](./my_resume.pdf)
