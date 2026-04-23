@@ -21,9 +21,9 @@
 
 | Project | Tech | What it shows firmware folks |
 |---------|------|-------------------------------|
-| **[cachepix]** | C, SIMD | Compile-time selected SIMD backend, loop vectorization -> directly maps to DSP/ISP firmware |
-| **[fifine_mic_driver]** | C, Linux USB stack | Isochronous endpoint handling, URB lifecycle, real-time audio streaming |
-| **[dep-analyzer]** | C, libclang | Dataflow across functions — useful for firmware safety analysis and untangling messy codebases |
+| **cachepix** | C, SIMD | Compile-time selected SIMD backend, loop vectorization -> directly maps to DSP/ISP firmware |
+| **fifine_mic_driver** | C, Linux USB stack | Isochronous endpoint handling, URB lifecycle, real-time audio streaming |
+| **prongc** | C, libclang | Dataflow across functions — useful for firmware safety analysis and untangling messy codebases |
 
 ---
 
