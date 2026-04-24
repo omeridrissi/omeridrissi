@@ -1,6 +1,6 @@
 # Omer El Idrissi
 
-**Firmware Engineer** | Linux Kernel Contributor | Systems & USB
+**Linux Kernel Contributor** | **Systems & USB**
 
 - LinkedIn: https://www.linkedin.com/in/omer-el-idrissi-921a073a1/ 
 - Email: omer.e.idrissi@gmail.com
