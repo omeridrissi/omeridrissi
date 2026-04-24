@@ -18,7 +18,7 @@
 
 ---
 
-## Featured Projects (Relevant to Firmware)
+## Featured Projects
 
 | Project | Tech | What it shows firmware folks |
 |---------|------|-------------------------------|
@@ -32,14 +32,6 @@
 
 - `drivers/staging/`: [brief — e.g., “Code refactoring for cleaner error returns” or “Changing use of non-standard vendor-defined macros”]
 - Upstream link: [https://lore.kernel.org/linux-staging/, look up "Omer El Idrissi"]
-
----
-
-## Why this matters for firmware
-
-- **Real-time & isochronous** – Handled jitter, scheduling, ring buffer management at USB frame level (multi-producer, single-blocked-consumer model).
-- **Cache optimization / SIMD** – Proven ability to leverage CPU cache hits with cache-aware data structure designs.
-- **Static analysis tool** – Analyzes data dependencies before runtime; critical for analyzing messy codebases.
 
 ---
 
