@@ -30,16 +30,10 @@
 
 ## Linux Kernel Contributions
 
-- `drivers/staging/`: [brief — e.g., “Code refactoring for cleaner error returns” or “Changing use of non-standard vendor-defined macros”]
+- `drivers/staging/`: [e.g., “Code refactoring for cleaner error returns” or “Changing use of non-standard vendor-defined macros”]
 - Upstream link: [https://lore.kernel.org/linux-staging/, look up "Omer El Idrissi"]
 
 ---
 
 ## Quick resume
-
-includes details on:
-- Reverse-engineered USB descriptor parsing for custom microphone
-- SIMD PPM library achieving 
-- libclang tool to detect cross-function data dependency
-
 - PDF: [Download My Resume](./my_resume.pdf)
