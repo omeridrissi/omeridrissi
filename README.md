@@ -8,10 +8,10 @@
 
 ---
 
-## Core Competencies for Firmware Roles
+## Core Competencies for Systems Programming
 
 - **Embedded & Kernel**: Linux staging drivers, USB isochronous transfers, interrupt handling, DMA
-- **Performance Critical**: SIMD, cache-friendly data layouts (PPM lib)
+- **Performance Critical**: SIMD, cache-friendly data layouts (cachepix PPM lib)
 - **Static Analysis**: libclang-based data dependency analysis, control-flow graphs
 - **Hardware Adjacent**: Physical microphone integration, isochronous endpoints, timing constraints
 - **Toolchain**: C (primary), Python for automation, Git
