@@ -24,7 +24,7 @@
 |---------|------|-------------------------------|
 | **cachepix** | C, SIMD | Compile-time selected SIMD backend, loop vectorization -> directly maps to DSP/ISP firmware |
 | **fifine_mic_driver** | C, Linux USB stack | Isochronous endpoint handling, URB lifecycle, real-time audio streaming |
-| **prongc** | C, libclang | Maps data flow across functions, useful for untangling messy codebases |
+| **prongc** | C, libclang | Maps shared variable accesses across functions, useful for untangling messy codebases |
 
 ---
 
