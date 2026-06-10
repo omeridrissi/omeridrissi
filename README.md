@@ -32,8 +32,3 @@
 
 - `drivers/staging/`: [e.g., “Code refactoring for cleaner error returns” or “Changing use of non-standard vendor-defined macros”]
 - Upstream link: [https://lore.kernel.org/linux-staging/, look up "Omer El Idrissi"]
-
----
-
-## Quick resume
-- PDF: [Download My Resume](./my_resume.pdf)
