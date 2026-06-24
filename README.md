@@ -22,7 +22,7 @@
 | Project | Tech | 
 |---------|------|
 | **cachepix** | C, SIMD | 
-| **fifine_mic_driver** | 
+| **fifine_mic_driver** | C, Linux kernel |
 | **prongc** | C, libclang | 
 
 ---
