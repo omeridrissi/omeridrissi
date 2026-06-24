@@ -10,7 +10,6 @@
 
 ## Core Competencies for Systems Programming
 
-- **Embedded & Kernel**: Linux staging drivers, USB isochronous transfers, interrupt handling, DMA
 - **Performance Critical**: SIMD, cache-friendly data layouts (cachepix PPM lib)
 - **Static Analysis**: libclang-based data dependency analysis, control-flow graphs
 - **Hardware Adjacent**: Physical microphone integration, isochronous endpoints, timing constraints
@@ -20,11 +19,11 @@
 
 ## Featured Projects
 
-| Project | Tech | What it shows firmware folks |
-|---------|------|-------------------------------|
-| **cachepix** | C, SIMD | Compile-time selected SIMD backend, loop vectorization -> directly maps to DSP/ISP firmware |
-| **fifine_mic_driver** | C, Linux USB stack | Isochronous endpoint handling, URB lifecycle, real-time audio streaming |
-| **prongc** | C, libclang | Maps shared variable accesses across functions, useful for untangling messy codebases |
+| Project | Tech | 
+|---------|------|
+| **cachepix** | C, SIMD | 
+| **fifine_mic_driver** | 
+| **prongc** | C, libclang | 
 
 ---
 
