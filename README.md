@@ -4,7 +4,7 @@
 
 - LinkedIn: https://www.linkedin.com/in/omer-el-idrissi-921a073a1/ 
 - Email: omer.e.idrissi@gmail.com
-- PDF Resume: [Download PDF Resume](./my_resume.pdf)
+- PDF Resume: [Download PDF Resume](./newest_resume.pdf)
 
 ---
 
